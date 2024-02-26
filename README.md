@@ -5,7 +5,7 @@ Spotify is a music streaming platform. Spotify Clone made by only using HTML, CS
 
 
 
-## Live Website
+# Live Website
 
 Live Version -> [Spotify-Live](https://spotify-live-gamma.vercel.app/)
 
@@ -19,7 +19,7 @@ Home
 ![App Screenshot](https://github.com/AshutoshDM1/Spotify_clone/blob/main/ReadMe_Files/demo_1.gif)
 
 <br>
-## Screenshots
+# Screenshots
 
 Music-Page
 
