@@ -14,21 +14,10 @@ Live Version -> [Spotify-Live](https://spotify-live-gamma.vercel.app/)
 
 ## Screenshots
 
-<!-- Log In
-
-![App Screenshot](https://github.com/BasimAhmedKhan/Spotify-Clone/blob/main/Readme%20Resources/login.png)
 
 Home
 
 ![App Screenshot](https://github.com/BasimAhmedKhan/Spotify-Clone/blob/main/Readme%20Resources/home.png)
-
-About Us
-
-![App Screenshot](https://github.com/BasimAhmedKhan/Spotify-Clone/blob/main/Readme%20Resources/about.png)
-
-Library
-
-![App Screenshot](https://github.com/BasimAhmedKhan/Spotify-Clone/blob/main/Readme%20Resources/library.png) -->
 
 
 ## Tech Stack
@@ -42,11 +31,11 @@ Front-End
 
 | Resource                                                               | Description                                                                                                           |
 | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| [ImKennyYip][ImKennyYip]                                                     | A cool 2048 game made by [ImKennyYip], I reused the Javascript for this Project with some of my customization, |
-| [2048][2048] | I refer to this original game by Gabriele Cirulli for the UI.                                                |
+| [Animate.css][Animate.css]                                                     | A This is a cool Website  [Animate.css], which give us live animation to add to our site , |
+| [Animation on Scroll][Animation on Scroll] | This site give us the animation on scroll.                                               |
 
-[ImKennyYip]: https://github.com/ImKennyYip/2048
-[2048]: https://play2048.co/
+[Animate.css]: https://github.com/AshutoshDM1/Spotify_Live/tree/main/animate.css
+[Animation on Scroll]: https://michalsnik.github.io/aos/
 
 ## License
 
