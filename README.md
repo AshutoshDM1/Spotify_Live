@@ -18,7 +18,7 @@ Home
 
 ![App Screenshot](https://github.com/AshutoshDM1/Spotify_clone/blob/main/ReadMe_Files/demo_1.gif)
 
-<br>
+
 ## Screenshots
 
 Music-Page
