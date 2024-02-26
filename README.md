@@ -14,11 +14,9 @@ Live Version -> [Spotify-Live](https://spotify-live-gamma.vercel.app/)
 
 ## Screenshots
 
-
 Home
 
-![App Screenshot](https://github.com/AshutoshDM1/Spotify_Live/blob/main/ReadMe_Files/demo pic 1.png)
-
+![App Screenshot](https://github.com/AshutoshDM1/Spotify_Live/blob/main/ReadMe_Files/demo_pic_1.png)
 
 ## Tech Stack
 Front-End
