@@ -46,15 +46,15 @@ const _getTrack = async () => {
     }
 }
 
-// music.forEach(div => {
-//     div.addEventListener('click',()=>{
-//         let IdChossen = div.getAttribute('id');
-//         console.log(IdChossen);
-//         for (let path in spotifyMusic){
-//             if(IdChossen===path){
-//                 window.location.href = `${IdChossen}.html`;
-//                 // window.location.href = `/File_Main/${IdChossen}.html`;
-//             }
-//         }
-//     });
-// });
+music.forEach(div => {
+    div.addEventListener('click',()=>{
+        let IdChossen = div.getAttribute('id');
+        console.log(IdChossen);
+        for (let path in spotifyMusic){
+            if(IdChossen===path){
+                window.location.href = `${IdChossen}.html`;
+                // window.location.href = `/File_Main/${IdChossen}.html`;
+            }
+        }
+    });
+});
