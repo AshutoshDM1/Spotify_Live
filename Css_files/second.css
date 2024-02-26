@@ -1,0 +1,203 @@
+.backbtnDiv {
+    height: 10vh;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+}
+.backbtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left:6vmin ;
+    height: 7vmin;
+    width: 15vmin;
+    background-color: rgb(15, 199, 70);
+    border-radius: 2.5vmin;
+    font-size: 4vmin;
+    color: white;
+    cursor: pointer;
+    border: .5vmin solid black;
+}
+.songContainer{
+
+    height: 45vmin;
+    margin-left: 4vmin;
+    margin-right: 4vmin;
+    margin-top: 4vmin;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: end;
+    border-radius: 3vmin;
+}
+
+.cover{
+    margin-left: 3vmin;
+    margin-bottom: 4vmin;
+    height: 30vmin;
+    width: 30vmin;
+    background-color: aqua;
+    background-size: cover;
+    box-shadow: 0 0 2rem rgba(0, 0, 0, 1);
+
+}
+
+.SongText {
+    margin-left: 9vmin;
+    display: flex;
+    flex-direction: column;
+    height: 30vmin;
+    width: 60vmin;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    margin-bottom: 6vmin;
+}
+.text1 {
+    height: 4vmin;
+    width: 60vmin;
+    background-color: rgb(0, 0, 0);
+    font-size: 3vmin;
+    margin-top: 10vmin
+}
+.text2 {
+    height: 20vmin;
+    width: 60vmin;
+    background-color: rgb(0, 0, 0);
+    font-size: 10vmin;
+
+}
+.text3 {
+    visibility: hidden;
+    height: 4vmin;
+    width: 60vmin;
+    background-color: rgb(0, 0, 0);
+    font-size: 2vmin;
+    margin-top: 3vmin;
+
+}
+.playDiv {
+    margin-top: 1vmin;
+    height: 8vmin;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.divset {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 8vmin;
+    /* background-color: azure; */
+}
+.play {
+    margin-left: 2vmin;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7vmin;
+    width: 7vmin;
+    background-color: rgb(31, 190, 36);
+    font-size: 3vmin;
+    border-radius: 50%;
+    color: white;
+    cursor: pointer;
+}
+.btn {
+    background: none;
+}
+.ArtistName {
+    margin-left: 95vmin;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7vmin;
+    width: 52vmin;
+    background-color: rgb(31, 190, 36);
+    font-size: 2.4vmin;
+    color: white;
+    cursor: pointer;
+    border-radius: 20vmin;
+}
+.playerdiv{
+    /* position: sticky;
+    top: 50vmin; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20vmin;
+    margin-top: 12vmin;
+    /* background-color: azure; */
+}
+.playermain {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    height: 9vmin;
+    width: 100vmin;
+    background-color: rgb(31, 190, 36);
+    border-radius: 10vmin;
+}
+.btn2 {
+    color: black;
+    font-size: 2.5vmin;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5vmin;
+    width: 5vmin;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    cursor: pointer;
+}
+.timer {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1.2vmin;
+    width: 68vmin;
+    border-radius: 20vmin;
+    background-color: rgb(255, 255, 255);
+}
+.timer div{
+    height: .1vmin;
+    margin: 0px;
+    /* background-color: black; */
+    background-color: rgb(255, 255, 255);
+}
+div.essential_audio>div:nth-child(3) {
+    height: 7px;
+    margin-top: -3px;
+}
+
+.side-nav {
+    height: 147vh;
+}
+
+.bodymain {
+    height: 120vh;
+}
+
+.text1:hover {
+    cursor: pointer;
+    color:rgb(12, 183, 18);
+}
+.text2:hover {
+    cursor: pointer;
+    color:rgb(15, 185, 20);
+}
+.btnhover:hover {
+    cursor: pointer;
+    padding: 5px;
+    background-color:rgb(6, 141, 11) ;
+}
+.btnhover2:hover {
+    cursor: pointer;
+    background-color:rgb(3, 171, 9) ;
+}
+.btn2:hover {
+    cursor: pointer;
+    color:rgb(53, 226, 58) ;
+}
+

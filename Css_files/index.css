@@ -1,0 +1,174 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(41, 229, 141);
+    box-sizing: border-box;
+}
+
+.nav {
+    height: 12vh;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+.nav-logo {
+    height: 12vh;
+    width: 25vh;
+    background-color: rgb(0, 0, 0);
+    background-size: cover;
+    cursor: pointer;
+    
+}
+.side-nav {
+    height: 192vh;
+    width: 15vh;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    transition: .5s ease;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items:start ;
+    
+}
+
+.side-nav-2 {
+
+    height: 120vh;
+    width: 15vh;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    
+}
+.side-nav-3 {
+    position: absolute;
+    margin-left: 15vh;
+    height: 120vh;
+    width: 15vh;
+    background-color: rgb(0, 0, 0);
+    visibility: hidden;
+    /* visibility: visible; */
+}
+
+
+.logo-main {
+    height: 12vmin;
+    width: 15vmin;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    background-color: rgb(0, 0, 0);
+    margin-left: 3vmin;
+}
+.spotify-logo {
+    height: 8vmin;
+    width: 8vmin;
+    background-color: rgb(0, 0, 0);
+    background-image: url("/Java_script_files/nav_logos/Spotify_logo_without_text.svg.png");
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.home-div {
+    height: 12vmin;
+    width: 15vmin;
+    font-size: 3vmin;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    background-color: rgb(0, 0, 0);
+    border: .3vmin solid rgb(0, 0, 0);
+    color: rgb(255, 255, 255);   
+}
+.home-text{
+    margin-right: 2vmin;
+    background: none;
+    /* transition: 3s ease; */
+}
+.home-logo {
+    margin-left: 5vmin;
+    background: none; 
+    cursor: pointer;
+}
+
+/* ///////////////body ////////////////// */
+
+.bodymain {
+    height: 140vh;
+    /* background-color: azure; */
+    margin-left: 15vh;
+}
+.row {
+    height: 40vmin;
+    /* background-color: rgb(221, 63, 200); */
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center ;
+    flex-wrap: wrap;
+    margin-top: 5vmin;
+}
+.music {
+    height: 30vmin ;
+    width: 30vmin;
+    background-color: rgb(0, 0, 0);
+    /* box-shadow: 0 0 1rem rgba(0, 0, 0, 0.8); */
+    box-shadow: 0 0 2rem rgba(0, 0, 0, 10);
+    /* border-radius: .8vmin; */
+    background-size: cover;
+    cursor: pointer;
+    transition: 2s;
+}
+
+
+/* /////////////////footer /////////////////////////// */
+
+
+.footer {
+    margin-top: 20vh;
+    height:25vmin;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+.footermain {   
+    width: 160vmin;
+    height: 15vmin;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    justify-content: space-evenly;
+
+}
+
+.footer1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap; 
+    height:20vmin ;
+    width: 15vmin;
+    background-color: rgb(0, 0, 0);
+}
+.footer1 p {
+    font-size: 2.3vmin;
+    color: white;
+    background: none;
+}
+
+.home-div:hover {
+    color: rgb(41, 229, 141);
+}
+.home-text:hover {
+    color: rgb(41, 229, 141);
+}
+.footer1 p:hover {
+    cursor: pointer;
+    color:rgb(41, 229, 141);
+}
